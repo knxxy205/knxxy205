@@ -1,8 +1,5 @@
-# 💫 About Me:
-👋 Fadjri here.<br><br>💻 One laptop. Three OS. Zero fear.<br>🐧 Arch Linux | 🌿 Linux Mint | 🪟 Windows<br><br>🧪 Laptop = playground  <br>Break system → debug → fix → repeat  <br><br>💻 Web dev in progress (Laravel, Next.js)  <br>🎨 Obsessed with clean UI, ricing desktop, and making things look right  <br><br>🧪 Turning errors into experience  <br>🎨 UI/UX & desktop ricing enjoyer  <br>💻 Learning web dev the hard way<br><br>⚡ Motto:<br>"If it still boots, I can still break it."<br>
-
-
-## 🌐 Socials:
+# Hi 👋 Fadjri here
+<br><br>💻 One laptop. Three OS. Zero fear.<br>🐧 Arch Linux | 🌿 Linux Mint | 🪟 Windows<br><br>🧪 Laptop = playground  <br>Break system → debug → fix → repeat  <br><br>💻 Web dev in progress (Laravel, Next.js)  <br>🎨 Obsessed with clean UI, ricing desktop, and making things look right  <br><br>🧪 Turning errors into experience  <br>🎨 UI/UX & desktop ricing enjoyer  <br>💻 Learning web dev the hard way<br><br>⚡ Motto:<br>"If it still boots, I can still break it."<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fajrisptro) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fajrisptro) 
 
 # 💻 Tech Stack:
